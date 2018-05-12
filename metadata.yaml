@@ -1,0 +1,28 @@
+_repo: The-Cave-by-the-Beech-ForkA-Story-of-Kentucky-1815_36042
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spalding, Henry S. (Henry Stanislaus)
+    alias: Spalding, H. S. (Henry Stanislaus)
+    birthdate: 1865
+    deathdate: 1934
+    gutenberg_agent_id: '38051'
+    url: http://www.gutenberg.org/2009/agents/38051
+description: ''
+gutenberg_issued: '2011-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36042'
+  lccn: '01031235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Fiction'
+- !lcc 'PS'
+title: 'The Cave by the Beech Fork: A Story of Kentucky—1815'
+url: http://www.gutenberg.org/ebooks/36042
